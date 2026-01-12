@@ -1,0 +1,28 @@
+Q4. Client–Server Model
+
+The client–server model describes how two computers communicate over a network.
+
+Who is the client?
+
+The device or application used by the user
+
+Examples: web browser, mobile app, desktop app
+
+Sends requests such as “get my profile data”
+
+Who is the server?
+
+Powerful computer that stores data and runs backend code
+
+Hosts websites, APIs, and databases
+
+Processes requests and sends responses back
+
+How communication happens
+
+Communication usually happens over the internet using HTTP/HTTPS
+
+Client sends request → server processes → server sends response
+
+Example:
+User clicks “Login” → request sent → server verifies → reply returned
