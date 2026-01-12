@@ -1,0 +1,33 @@
+Q6. JavaScript as a Backend Language
+
+JavaScript is not only used on the frontend; it is widely used on the backend using environments like Node.js.
+
+Performance
+
+Node.js uses event-driven, non-blocking architecture
+
+Handles many requests at the same time efficiently
+
+Suitable for real-time apps like chat, gaming, streaming
+
+Ecosystem
+
+Huge package library (npm) with thousands of ready-to-use modules
+
+Same language for frontend and backend reduces learning curve
+
+Strong community support and documentation
+
+Popular backend frameworks
+
+Node.js
+
+Express.js
+
+Nest.js
+
+Next.js (full-stack framework)
+
+AdonisJS
+
+These frameworks help build REST APIs, authentication systems, real-time chat servers, dashboards, etc.
