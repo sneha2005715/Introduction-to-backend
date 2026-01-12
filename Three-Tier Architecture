@@ -1,0 +1,39 @@
+Q5. Three-Tier Architecture
+
+Three-tier architecture divides an application into three separated layers so that each layer has a specific responsibility.
+
+1. Presentation Layer (Frontend/UI)
+
+What the user sees
+
+Handles design and user interaction
+
+Built using HTML, CSS, JS, React, Angular etc.
+
+2. Application (Business) Layer
+
+Contains business logic and rules
+
+Processes inputs from UI
+
+Validates data and applies conditions
+
+Often implemented using backend languages (Node.js, Java, Python etc.)
+
+3. Data Layer
+
+Handles storage and retrieval of data
+
+Databases like MongoDB, MySQL, PostgreSQL
+
+Manages backups and indexing
+
+Why is this architecture used?
+
+Makes application easier to maintain
+
+Each layer can be changed independently
+
+Improves security (database not directly exposed to user)
+
+Supports scalability and performance
