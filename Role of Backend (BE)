@@ -1,0 +1,33 @@
+Q2. Role of Backend (BE)
+
+The backend is the “behind the scenes” part of the application that runs on the server.
+
+Server-side processing
+
+Handles logic that cannot run securely on the client side
+
+Processes user requests (login, payments, data fetch)
+
+Executes business rules and calculations
+
+Generates responses to send back to the frontend
+
+Database handling
+
+Connects to databases like MySQL, MongoDB, PostgreSQL etc.
+
+Stores, updates, deletes, and retrieves application data
+
+Ensures data consistency and reliability
+
+Example: saving user details during signup
+
+Security and authentication
+
+Manages login and signup securely
+
+Uses hashing, tokens, sessions, and encryption
+
+Protects data from unauthorized access
+
+Validates permissions (who can access what)
