@@ -1,0 +1,31 @@
+Q1. Role of Frontend (FE)
+
+The frontend is the part of a web application that the user sees and interacts with directly. It runs in the browser.
+
+User interface (UI)
+
+Responsible for the look and layout of the website
+
+Includes colors, fonts, buttons, forms, images, and content
+
+Built mainly using HTML, CSS, and JavaScript
+
+Ensures pages are responsive across devices (mobile, tablet, laptop)
+
+User interaction
+
+Handles how users interact with elements (clicks, typing, scrolling, drag-drop)
+
+Validates basic inputs (example: checking if email format is correct before submit)
+
+Provides instant feedback such as error messages, pop-ups, animations
+
+Communication with backend
+
+Sends user requests to backend using API calls (HTTP/HTTPS)
+
+Receives data from backend (for example, user profile or product list)
+
+Often communicates using JSON over REST APIs or GraphQL
+
+Displays the received data to users in a readable form
