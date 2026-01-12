@@ -1,0 +1,35 @@
+Q3. Business Logic
+
+Business logic refers to the rules and decisions that define how a web application should behave according to real-world needs of the business or system.
+
+It decides:
+
+what actions are allowed
+
+what calculations must be applied
+
+what data should be stored or rejected
+
+what conditions must be satisfied
+
+It sits between the frontend and database and is usually implemented in the backend.
+
+Real-world examples
+
+E-commerce website
+
+If cart value > ₹1000 → give free shipping
+
+Prevent checkout if product is out of stock
+
+Banking application
+
+Block transfer if balance is insufficient
+
+Apply interest differently for savings vs current accounts
+
+Online learning platform
+
+Issue certificate only if user completes all modules
+
+Lock next chapter until previous quiz is passed
